@@ -1,0 +1,10 @@
+Debug/
+Release/
+ipch/
+GlassesAltEditor/obj/
+LSLib/obj/
+SamplePlugin/obj/
+StatsEditorPlugin/obj/
+*.sdf
+*.suo
+*.user
